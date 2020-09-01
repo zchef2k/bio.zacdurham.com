@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+Sometime in early 2008, I had an epiphany. The culinary career I had built over the previous twelve years had started to wear me down. I had opened two restaurants in three years. I was recently married but unable to spend time with my wife. Eighty-hour work weeks and missed family events were threatening to steal from me my happiness and my passion for food. I knew I needed to make a change if I was to have any chance at long-term emotional and financial security.
 
-You can use the [editor on GitHub](https://github.com/zchef2k/bio.zacdurham.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My brothers and I didn't grow up around computers. Our parents divorced when I was in middle school and each struggled at times to make ends meet. Personal computing in the 1980's wasn't remotely in the household budget. It wasn't until the late 90's that I owned my first PC, an [Apple G3 Powerbook](https://en.wikipedia.org/wiki/PowerBook_G3). When I was wasn't in the kitchen, I was likely on that laptop. I was fascinated by it and what it could do. It was portable, sleek, had a beautiful display and could plug into cable internet. I was making up for lost time, learning everything I could about computers and how they worked. At that time, many of my restaurant peers were going back to school or pursuing technical training to get into the dotcom bubble. My best prospects were in the kitchen, but the endless exploration of this newfound technology offered a welcome escape from the stresses of the daily grind.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For the next eight years or so, I cooked. I moved to Charleston, South Carolina and back and spent a couple years on North Carolina's Crystal Coast. I had the good fortune to work alongside very talented culinary professionals. I've held every kitchen rank from dishwasher to Executive Chef. I've cooked dinners with nationally recognized culinary personalities. Hospitality is immensely gratifying and I had no shortage of gratifying experiences. Eventually the enthusiasm and drive started to fade and a professional kitchen is no place to be when that happens.
 
-### Markdown
+By the spring of 2008, I had made the decision. I turned in my toque for a graduation cap, needing only two years to complete an undergraduate degree. Since then I've forged a new career in information technology. Occasionally, people will ask me how one goes from cooking professionally to working in IT. I try my best to explain the two have more in common than most people realize. I work with a talented team of professionals who care about doing quality work. Like with high quality or exotic ingredients, the current state of IT provides no shortage of new and emerging tech to work with to deliver positive business outcomes. It all feels very familiar.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zchef2k/bio.zacdurham.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+So that's what I do now. I cook a lot and I talk tech- not much has changed. Well, I do have more time to spend with family. And to travel. And to play bad golf and to not catch fish.
