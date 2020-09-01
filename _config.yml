@@ -1,0 +1,64 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
+# Theme Settings
+#
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+
+remote_theme             : "mmistakes/minimal-mistakes@4.20.1"
+#minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Settings
+locale                   : "en-US"
+title                    : "About Me"
+title_separator          : "-"
+subtitle                 : "bio.zacdurham.com"
+#name                     : "Zac Durham"
+description              : "Personal page dedicated to introducing myself and what I'm about"
+
+# Site Author
+author:
+  name             : "Zac Durham"
+  avatar           : "assets/img/avatar.png"
+  bio              : "Former chef turned IT professional.<br /> Husband, son, brother. <br /> Terrible golfer and fisherman."
+  location         : "Greensboro, NC"
+  email            :
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:zacdurham@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/zacdurham/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/zchef2k"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/zchef2k/"
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-include-cache
+
+defaults:
+   # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      related: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      related: true
