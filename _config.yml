@@ -23,7 +23,8 @@ description              : "Personal page dedicated to introducing myself, a for
 
 analytics:
   provider       : "google-gtag"
-  tracking_id    : "G-NF87941WQK"
+  google:
+    tracking_id    : "G-NF87941WQK"
 
 # Site Author
 author:
