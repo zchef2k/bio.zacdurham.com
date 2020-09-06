@@ -20,6 +20,8 @@ title_separator          : "-"
 subtitle                 : ""
 #name                     : "Zac Durham"
 description              : "Personal page dedicated to introducing myself, a former chef turned IT professional, and what I'm about."
+analytics.provider       : "google-gtag"
+analytics.google.tracking_id : "G-NF87941WQK"
 
 # Site Author
 author:
